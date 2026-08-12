@@ -1,5 +1,16 @@
+This website is based on "Paradigm Shift" by AJ Langer
+(HTML5 UP), and has been substantially modified for use
+as a personal website.
+
+Original template:
+https://html5up.net/paradigm-shift
+
+License:
 Creative Commons Attribution 3.0 Unported
-http://creativecommons.org/licenses/by/3.0/
+https://creativecommons.org/licenses/by/3.0/
+
+The original work has been modified.
+
 
 License
 
