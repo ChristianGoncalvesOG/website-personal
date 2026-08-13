@@ -72,6 +72,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
 /* Basic */
 
 	@-ms-viewport {
